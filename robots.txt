@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://desenrola-gamma.vercel.app/sitemap.xml
+Sitemap: https://ultimasnoticias2026.top/sitemap.xml
